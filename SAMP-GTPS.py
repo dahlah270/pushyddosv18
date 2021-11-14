@@ -3875,7 +3875,7 @@ print("""
 ▐█ ▪▐▌ ▐█▌· ▐█▌·▐█ ▪▐▌▐███▌▐█.█▌
  ▀  ▀  ▀▀▀  ▀▀▀  ▀  ▀ ·▀▀▀ ·▀  ▀
 """)
-print("[ + ] Author/Use : Franz ")
+print("[ + ] Author/Use : Franz X Pushy ")
 print("========================")
 ip = str(input("[ + ] Target IP : "))
 port = int(input("[ + ] Port : "))
